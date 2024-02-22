@@ -1,2 +1,2 @@
 # CoderSQL_SALUD_MEDINA
-CoderSQL_SALUD_MEDINA
+Una BD con redes sanitarias con hospitales, datos de contacto, tipos de especialidad, practicas que se realizan en el lugar, pacientes, doctores, como para crear una red para seguimiento de casos. por ejemplo: si llega un enfermo con algun tipo de sars a un hospital donde se lo aisle pero sin capacidad de realizar estudios, que la base devuelva la ruta posible a seguir para que el estudio se realice de manera correcta.
