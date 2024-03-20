@@ -1,5 +1,5 @@
 
--- En la 2da entrega habilitada el 18/03 agrego cuatro tablas mas, dos LOG de auditoria y las tabla de Prescriptions y medications
+-- En la 2da entrega habilitada el 18/03 agrego cinco tablas mas, dos LOG de auditoria y las tabla de Prescriptions y medications
 DROP SCHEMA IF EXISTS `DB_SALUD_MEDINA`;
 -- Creo mi base de datos
 CREATE SCHEMA IF NOT EXISTS `DB_SALUD_MEDINA`;
