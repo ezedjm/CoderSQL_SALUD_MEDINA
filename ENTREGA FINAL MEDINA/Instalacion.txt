@@ -1,0 +1,18 @@
+Para instalar la base de datos db_salud_medina ingresar a la carpeta de nombre
+´Carpeta Objetos´ y abrir y ejecutar los archivos en el siguiente orden:
+
+1 - Creacion de BD y sus tablas
+2 - population de tablas
+3 - views
+4 - triggers
+5 - Sp
+6 - functions
+7 - users y grants
+8 - backup tabla doctors
+
+
+*****************************
+
+Dentro de la misma carpeta se resguarda un Backup de nombre ´back single file´ 
+realizado con la herramienta MySQL Workbench
+
